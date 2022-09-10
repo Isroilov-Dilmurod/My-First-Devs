@@ -7,11 +7,6 @@ total = rasxod * km / 100
 print(km, 'km ga', str(total)[:5], 'litr benzin sarflabdi.')
 print(str(total)[:5], 'litr benzinga', total * benzin, "so'm pul sarflabsiz.")
 
-# if km == km > 0 and km < 10:
-#     print(km, 'km ga', str(km * rasxod / 100)[:4], 'litr benzin ketibdi.')
-
-# if km == km > 99 and km < 1000:
-#     print(km, 'km ga', str(km * rasxod / 100)[:4], 'litr benzin ketibdi.')
 
 
 
